@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Your Post Title"
+title: "Har jeg blitt oppdatert?"
 date: 2024-03-19 11:34:55 +0100
 ---
 
