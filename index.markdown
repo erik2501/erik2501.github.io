@@ -52,7 +52,7 @@ Having first noticed the concentration of drug/narcotic crimes in Tenderloin, we
 
 ## Plot 3: Line Plot
 
-In analyzing the crime statistics over time for different police districts, as reflected in your chart, we observe that the districts characterized by lower drug crime rates show stability over the years. The frequency of drug-related offenses within these areas remains consistently close to their mean values, suggesting a persistent level of drug activity without fluctuations.
+In analyzing the crime statistics over time for different police districts, as reflected in the chart, we observe that the districts characterized by lower drug crime rates show stability over the years. The frequency of drug-related offenses within these areas remains consistently close to their mean values, suggesting a persistent level of drug activity without fluctuations.
 
 However, in districts that have a higher rate of drug-related crimes, the variability in crime rates is notably more pronounced. This is particularly evident in the Tenderloin district, notorious for its issues with drug-related offenses and overall high crime rates. The chart reveals a peak in drug crime rates for Tenderloin around 2008, where the levels over twenty times higher when compared to Richmond, which represents the lower threshold. Tenderloin's high incidence of crime, coupled with the pronounced problems of drug abuse and overdoses, is illustrated in the line plot.
 
@@ -64,3 +64,17 @@ This shift towards rehabilitation and harm reduction may contribute to a decline
 <iframe src="/assets/Line_Bokeh.html" frameborder="0" width="800" height="400"></iframe>
 
 
+
+
+## References:
+Lopez, G., Katz, J. and Parlapiano, A. (2024) Can San Francisco solve its drug crisis? Five things to consider., The New York Times. Available at: https://www.nytimes.com/2024/01/31/upshot/san-francisco-drug-crisis.html (Accessed: 21 March 2024)
+
+
+## Contributions
+We have structured the assginment so that everyone had one main part to focus on. As we had all done the exercises everyone had a good understanding of all the tasks.
+
+|StudieNr |Contributions|
+|-----|--------|
+|s232047|Mainly plot 3        |
+|s232058|Mainly plot 1        |
+|s232046|Mainly plot 2        |
