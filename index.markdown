@@ -44,6 +44,8 @@ Having first noticed the concentration of drug/narcotic crimes in Tenderloin, we
 - **High socio-economic status**
   - Mostly high-income areas in newly developed housing, home to some of the richest people in the city. These regions include areas like Pacific Heights, SoMa and parts of the Financial district, which are at least perceived as having the highest incomes in the city.
 
+These buckets gave us a better way of understanding our data, not only from an income level but from other angles as well. When we mapped out the amount of drug/narcotics crime in each neighborhood on our map, we were astounded that Tenderloin had the lowest amount. We then considered the fact that Tenderloin is also the smallest area on the map, and did some research considering the population in each of our regions. We noticed that there was a big difference in the population between the police districts, where Tenderloin was by far the smallest. After normalizing our data to instead be drug/narcotic crime per resident in that district, the map looked completely different. The population we normalized to was data from 2020, and we normalized it in total, not per year. (Prison Policy Initiative, 2020)
+
 
 
 <div style="display: flex; justify-content: center;">
@@ -68,6 +70,10 @@ This shift towards rehabilitation and harm reduction may contribute to a decline
 
 ## References:
 Lopez, G., Katz, J. and Parlapiano, A. (2024) Can San Francisco solve its drug crisis? Five things to consider., The New York Times. Available at: https://www.nytimes.com/2024/01/31/upshot/san-francisco-drug-crisis.html (Accessed: 21 March 2024)
+
+Prison Policy Initiative. (2020). San Francisco Police District Appendix - Where people in prison come from - California (2020). Prisonpolicy.org. https://www.prisonpolicy.org/origin/ca/2020/sanfrancisco_police.html
+
+‌
 
 
 ## Contributions
